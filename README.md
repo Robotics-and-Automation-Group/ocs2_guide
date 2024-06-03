@@ -1,3 +1,5 @@
+### 官方文档：https://leggedrobotics.github.io/ocs2/
+
 - [ocs2_legged_robot_notes](#ocs2_legged_robot_notes)
   - [MIT 控制框架](#mit-控制框架)
   - [ETH 控制框架](#eth-控制框架)
